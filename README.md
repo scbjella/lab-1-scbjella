@@ -76,7 +76,7 @@ Since we will be using git for all assignments in this class, it will be importa
 
 Markdown was originally developed by John Gruber of [Daring Fireball](daringfireball.net), he's written about markdown [here](http://daringfireball.net/projects/markdown/).
 
-- [ ] Create a new directory for a markdown assignment, and create a basic markdown file in it.  Include a short discussion of the git workflow, with separate sections for git, and the importance of good documentation.  Include git commands formatted as code/syntax to show the basics of the git workflow.
+- [ ] Create a new directory for a markdown assignment called "markdown", and create a basic markdown file in it named "git.md".  Include a short discussion of the git workflow, with separate sections for git, and the importance of good documentation.  Include git commands formatted as code/syntax to show the basics of the git workflow.
 
 
 ## Learn LaTeX
@@ -92,9 +92,12 @@ For this last part of Lab 1, you will make modifications to a LaTeX report, and 
   [cheat sheet](http://www.ctan.org/tex-archive/info/latexcheat/latexcheat/latexsheet.pdf), 
   it will come in handy!
 
-In the report directory is a main.tex file. Use this as the starting point for your LaTeX report this week.
+In the report directory is a main.tex file. Use this as the starting point for your LaTeX report this week as directed below.
 
-- [ ] Read the [basics](https://en.wikibooks.org/wiki/LaTeX/Basics) section of the LaTeX wikibook to learn about the commands in this homework template.
+
+- [ ] Skim the [basics](https://en.wikibooks.org/wiki/LaTeX/Basics) section of the LaTeX wikibook without following their directions get a taste for LaTeX syntax.
+
+- [ ] Modify the section marked in the main.tex file in the report directory (see lab manual).
 
 - [ ] Compile your new document as a PDF (see the lab manual for assistance).
 - [ ] Commit the changed file to your repository.  Make sure to push your changes!
