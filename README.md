@@ -55,13 +55,13 @@ The time and date of your pull request from develop into master will determine y
 
 Git is a version control system used for tracking changes and coordinating work on digital files among multiple people. Version control, or revision/source control is a way to manage changes on documents, code, or other data to allow  concurrent editing, resolution of conflicts, and long-term management and saving of changes.  You can read more about why using revision control in higher education is important for your future [here](https://jarofgreen.co.uk/2013/05/why-programmers-should-learn-git/).
 
-- [ ] Complete the
+- [x] Complete the
   [Git 101 Tutorial](https://try.github.io/levels/1/challenges/1) -
   this should take about 15 minutes.
-- [ ] Review the Github
+- [x] Review the Github
   [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
   which will help you remember key commands and workflows with Git.
-- [ ] Make note of the additional resources available
+- [x] Make note of the additional resources available
   [here](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
   for going deeper into your learning about git and Github.
 
